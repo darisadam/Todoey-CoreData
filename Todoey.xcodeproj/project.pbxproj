@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		AE6F680E2CBCC0EE0056F42C /* Exceptions for "Todoey" folder in "Todoey" target */ = {
+		AE91ECB32CBE17ED00F71018 /* Exceptions for "Todoey" folder in "Todoey" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,10 +21,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		AE6F67FE2CBCC0ED0056F42C /* Todoey */ = {
+		AE91ECAC2CBE17ED00F71018 /* Todoey */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				AE6F680E2CBCC0EE0056F42C /* Exceptions for "Todoey" folder in "Todoey" target */,
+				AE91ECB32CBE17ED00F71018 /* Exceptions for "Todoey" folder in "Todoey" target */,
 			);
 			path = Todoey;
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		AE6F67F32CBCC0ED0056F42C = {
 			isa = PBXGroup;
 			children = (
-				AE6F67FE2CBCC0ED0056F42C /* Todoey */,
+				AE91ECAC2CBE17ED00F71018 /* Todoey */,
 				AE6F67FD2CBCC0ED0056F42C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				AE6F67FE2CBCC0ED0056F42C /* Todoey */,
+				AE91ECAC2CBE17ED00F71018 /* Todoey */,
 			);
 			name = Todoey;
 			packageProductDependencies = (
