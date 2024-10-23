@@ -98,7 +98,7 @@ class TodoListViewController: UITableViewController {
             print("save \(error)")
         }
         
-        self.tableView.reloadData()
+        tableView.reloadData()
     }
     
     //Read
